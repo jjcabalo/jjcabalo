@@ -68,7 +68,7 @@ Interface explorations · responsive systems · prototypes · visual direction
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jjcabalo/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="28" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/not_jrvys/">
