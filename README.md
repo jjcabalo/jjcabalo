@@ -20,9 +20,9 @@
 
 # ABOUT ME
 
-### JOHN JERVYS CABALO
+### JOHN JERVYS B. CABALO
 
-**Software Engineer | UI/UX Designer | Media Producer**
+**Software Engineer · UI/UX Designer · Media Producer**
 
 </div>
 
