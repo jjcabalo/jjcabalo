@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFD500&text=JERVYS&textBg=false&fontColor=000000&animation=fadeIn&desc=Building%20ideas%20worth%20seeing.&descAlign=50&descAlignY=63&fontAlign=50&fontSize=150&fontAlignY=41&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFD500&text=JERVYS&textBg=false&fontColor=000000&animation=fadeIn&desc=Building%20ideas%20worth%20seeing.&descAlign=50&descAlignY=60&fontAlign=50&fontSize=115&fontAlignY=38&descSize=25" width="100%"/>
 
 <br>
 
@@ -81,7 +81,7 @@ Designed around **commuting realities, connectivity, and community-generated tra
 
 `PRODUCT` · `MEDIA` · `DISASTER RESPONSE`
 
-**A household assessment and needs determination application for eGovPH.**
+**Household assessment and needs determination feature.**
 
 Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Finalist.
 
@@ -175,6 +175,7 @@ eGovPH Hackathon
 Most Commercially Viable
 UMak 7th Hackathon 2025
 <br>
+<br>
 </font>
 
 </td>
@@ -236,17 +237,18 @@ Running Average
 
 <td align="center" width="34%">
 
-### 53RD COMMENCEMENT
+### UMAK
 
-**UNIVERSITY OF MAKATI**
+**COMMISSION**
 
-`SLIDE DECK` · `TECHNICAL`
+`TECHNICAL` `JUN 2026 — AUG 2026`
+<br>
 <br>
 </td>
 
 <td width="66%">
 
-Live broadcast for the UMak Hooding Ceremony and Pagtatapos 2026 of University of Makati.
+Operated and created slide deck for the live broadcast of the UMak Hooding Ceremony and Pagtatapos 2026 of University of Makati.
 
 </td>
 
@@ -262,6 +264,7 @@ Live broadcast for the UMak Hooding Ceremony and Pagtatapos 2026 of University o
 
 `FOUNDER`
 `JUL 2023 — PRESENT`
+<br>
 <br>
 </td>
 
@@ -284,6 +287,7 @@ Creative service practice covering **photo, video, graphic, document, and applic
 `HEAD OF MEDIA`
 `DEC 2025 — JAN 2026`
 <br>
+<br>
 </td>
 
 <td>
@@ -304,6 +308,7 @@ Led media production for the **4th Robolution & Minoan Robotsports Competition �
 
 `STUDENT INTERN`
 `JUN 2023 — JUL 2023`
+<br>
 <br>
 </td>
 
@@ -326,6 +331,7 @@ Hands-on broadcast and field production for **DOSTv**.
 `VIDEO EDITING HEAD`
 `JUN 2021 — JUL 2023`
 <br>
+<br>
 </td>
 
 <td>
@@ -344,7 +350,7 @@ Led video production and creative direction for the **Multimedia and Information
 
 # TECH STACK
 
-### TOOLS I THINK WITH · BUILD WITH · CREATE WITH
+### TOOLS I THINK BUILD & CREATE WITH
 
 </div>
 
@@ -369,6 +375,8 @@ Led video production and creative direction for the **Multimedia and Information
 `Visual Design`
 `Motion`
 `Branding`
+<br>
+<br>
 
 </font>
 
@@ -390,6 +398,10 @@ Led video production and creative direction for the **Multimedia and Information
 `ASP.NET`
 `Jetpack Compose`
 `Tailwind`
+`Python`
+`Java`
+`C#`
+`SQL`
 
 </font>
 
@@ -403,15 +415,14 @@ Led video production and creative direction for the **Multimedia and Information
 
 <font color="#FFD21F">
 
-### AI INTEGRATION
+### AI TOOLS & IDES
 
 </font>
 
 <font color="#FFFFFF">
 
-`Python`
-`scikit-learn`
-`Gemini API`
+`OpenCode`
+`Antigravity`
 
 </font>
 
@@ -429,9 +440,14 @@ Led video production and creative direction for the **Multimedia and Information
 
 `Video Editing`
 `Videography`
-`Media Production`
+`Media Direction & Production`
 `Visual Storytelling`
+`Filmora`
+`Capcut`
+`DaVinci Resolve`
 
+<br>
+<br>
 </font>
 
 </td>
@@ -473,3 +489,7 @@ Led video production and creative direction for the **Multimedia and Information
 <img src="https://komarev.com/ghpvc/?username=jjcabalo&style=flat-square&color=FFD21F&label=PROFILE+VIEWS"/>
 
 </div>
+<br>
+<br>
+<div align="right">
+<sub>Github README.md updated as of August 2026<sub>
