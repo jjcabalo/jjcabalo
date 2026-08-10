@@ -423,6 +423,10 @@ Led video production and creative direction for the **Multimedia and Information
 
 `OpenCode`
 `Antigravity`
+`Visual Studio Code`
+`Unity`
+`IntelliJ IDEA`
+`Android Studio`
 
 </font>
 
