@@ -32,7 +32,7 @@
 
 ### JOHN JERVYS CABALO
 
-**UI/UX Designer · Software and AI Engineer · Data Scientist
+**UI/UX Designer · Software and AI Engineer · Data Scientist**
 
 </div>
 
