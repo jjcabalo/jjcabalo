@@ -115,7 +115,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <div align="center">
 
 <details>
-<summary><img src="https://img.shields.io/badge/VIEW%20OTHER%20BUILDS-000000?style=for-the-badge&logoColor=FFD21F&labelColor=FFD21F&color=000000"/></summary>
+<summary>View Other Builds</summary>
 
 <br>
 
