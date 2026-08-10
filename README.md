@@ -30,11 +30,11 @@
 
 <div align="center">
 
-# 01 — DESIGNER / DEVELOPER
+# ABOUT ME
 
 ### JOHN JERVYS CABALO
 
-**UI/UX Designer · Computer Science · Creative Technology**
+**UI/UX Designer · Software Engineer · Aspiring AI Engineer & Data Scientist**
 
 </div>
 
@@ -52,7 +52,7 @@ My work moves between **interface design, product thinking, media production, an
 
 <div align="center">
 
-# 02 — SELECTED WORK
+# 02 — FEATURED WORKS
 
 </div>
 
@@ -60,7 +60,7 @@ My work moves between **interface design, product thinking, media production, an
 <tr>
 <td align="center" width="50%">
 
-# KOMYUTPH
+# KomyutPH
 
 `UI/UX` · `PRODUCT DESIGN` · `MOBILITY`
 
@@ -78,13 +78,13 @@ Designed around the realities of commuting, connectivity, and community-generate
 
 <td align="center" width="50%">
 
-# HANDA
+# eHANDA
 
 `UI/UX` · `MEDIA DIRECTION` · `DISASTER RESPONSE`
 
 **A household assessment and needs determination application for eGovPH.**
 
-Created with Team Cordon Bleu for the **eGovPH Hackathon 2026**.
+Created with Team Cordon Bleu for the **eGovPH Hackathon 2026**. Making it to the Top 10 Finalists.
 
 <br>
 
@@ -101,18 +101,18 @@ Created with Team Cordon Bleu for the **eGovPH Hackathon 2026**.
 <div align="center">
 
 <details>
-<summary><b>＋ OTHER BUILDS</b></summary>
+<summary><b>OTHER BUILDS</b></summary>
 
 <br>
 
 **SERTIFY**  
-Certificate generation platform
-
-**REFACTORAI**  
-Automated code-smell detection using AST + GNN concepts
+Bulk certificate generation platform.
 
 **IOTRACK**  
-IoT-based machine monitoring and learning system
+IoT machine monitoring and learning website.
+
+**STUDYBUDDY**  
+Website in enhancing student productivity by reducing procrastination and minimizing distractions during study sessions.
 
 </details>
 
@@ -124,7 +124,7 @@ IoT-based machine monitoring and learning system
 
 # 03 — PROOF OF WORK
 
-### SELECTED RECOGNITION
+### AWARDS RECEIVED
 
 </div>
 
@@ -134,7 +134,7 @@ IoT-based machine monitoring and learning system
 
 ### 01
 
-**TOP 10**
+**TOP 10 FINALIST**
 
 eGovPH Hackathon 2026
 
@@ -156,9 +156,11 @@ UMak 7th Hackathon 2025
 
 ### 03
 
-**CHAMPION**
+**PLACE**
 
-OpenGov Hackathon 2025
+1ST RUNNER-UP
+
+InfoTechnolympics 2024 C# Category
 
 </td>
 
@@ -166,9 +168,7 @@ OpenGov Hackathon 2025
 
 ### 04
 
-**6 ×**
-
-Consistent Dean's Lister
+**DEAN'S LISTER**
 
 Running average **1.243**
 
@@ -180,16 +180,125 @@ Running average **1.243**
 
 <div align="center">
 
-### EXPERIENCE / PRODUCTION
+# 03 — EXPERIENCE
 
-**CIC · UNIVERSITY OF MAKATI**
+### DESIGN · MEDIA · TECHNOLOGY
 
-Slide Deck Committee · Technical Committee Staff
+</div>
+
+<table align="center" width="92%">
+
+<tr>
+<td align="center" width="34%">
+
+### CIC
+**UNIVERSITY OF MAKATI**
+
+**Slide Deck Committee**  
+**Technical Committee Staff**
+
+</td>
+
+<td width="66%">
+
+Supported live presentation production for major university ceremonies, including the **UMak Hooding Ceremony** and **53rd Commencement Exercises**.
+
+Worked on slide preparation, visual assets, presentation control, and technical execution during live events.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ESTUDYANEDITS
+**SELF-EMPLOYED**
+
+**Founder**  
+`Jul 2023 — Present`
+
+</td>
+
+<td>
+
+Founded and managed a creative service practice providing **photo editing, video editing, graphic design, document editing, and web development**.
+
+Handled client communication, project management, production, and quality assurance from concept to delivery.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### EROVOUTIKA
+**FREELANCE**
+
+**Head of Media**  
+`Dec 2025 — Jan 2026`
+
+</td>
+
+<td>
+
+Directed media production for the **4th Robolution** and **Minoan Robotsports Competition — Philippines**, overseeing planning, filming, photography, and post-production across multi-day events.
+
+Focused on capturing and presenting the competitions through cohesive visual storytelling.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### DOSTv
+**DOST CENTRAL OFFICE**
+
+**Student Intern**  
+`Jun 2023 — Jul 2023`
+
+</td>
+
+<td>
+
+Gained hands-on experience in broadcast and field production, including coverage of a **DOST Secretary interview**, host filming, B-roll production for DOSTv News, and on-site equipment preparation.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### MITS
+**SRCCMSTHS**
+
+**Video Editing Head**  
+`Jun 2021 — Jul 2023`
+
+</td>
+
+<td>
+
+Led video production and creative direction for the **Multimedia and Information Technology Society**.
+
+Planned, filmed, and edited digital content for organizational events, campaigns, and online presence.
+
+</td>
+</tr>
+
+</table>
 
 <br>
 
-Supported the live presentation workflow for major university ceremonies,
-including the **UMak Hooding Ceremony** and **53rd Commencement Exercises**.
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### EXPERIENCE THROUGH THREE LENSES
+
+`DESIGN` &nbsp;&nbsp; `MEDIA` &nbsp;&nbsp; `TECHNOLOGY`
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
