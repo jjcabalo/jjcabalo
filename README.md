@@ -74,8 +74,6 @@ Designed around **commuting realities, connectivity, and community-generated tra
 
 </td>
 
-<td width="4%"></td>
-
 <td align="center" width="50%" bgcolor="#000000">
 
 <font color="#FFD21F">
@@ -117,7 +115,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <br>
 
-<table align="center" width="85%" cellpadding="10">
+<table align="center" width="100%" cellpadding="10">
 
 <tr bgcolor="#000000">
 <td align="center" width="30%">
