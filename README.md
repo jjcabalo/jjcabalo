@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
@@ -26,13 +26,17 @@
 
 </div>
 
-<div align="justify">
+<table align="center" width="100%" bgcolor="#000000" cellpadding="20">
+<tr><td align="center">
+<font color="#FFFFFF" size="3">
+I design and build digital experiences where <font color="#FFD21F"><b>visual thinking meets engineering</b></font>. My work moves across <b><code>interface design</code></b>, <b><code>product thinking</code></b>, <b><code>media production</code></b>, and <b><code>software development</code></b> — with a growing focus on <font color="#FFD21F"><b><code>AI Engineering</code></b></font> and <font color="#FFD21F"><b><code>Data Science</code></b></font>.
+</font>
+</td></tr>
+</table>
 
-I design and build digital experiences where **visual thinking meets engineering**. My work moves across **`interface design`**, **`product thinking`**, **`media production`**, and **`software development`** — with a growing focus on **`AI Engineering`** and **`Data Science`**.
+<br>
 
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
@@ -42,7 +46,7 @@ I design and build digital experiences where **visual thinking meets engineering
 
 </div>
 
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
 
 <td align="center" width="50%" bgcolor="#000000">
@@ -53,9 +57,9 @@ I design and build digital experiences where **visual thinking meets engineering
 
 </font>
 
-`PRODUCT` · `UI/UX` · `MOBILITY`
+<font color="#FFFFFF">`PRODUCT` · `UI/UX` · `MOBILITY`</font>
 
-**Offline-first navigation for Philippine public transportation.**
+<font color="#FFD21F">**Offline-first navigation for Philippine public transportation.**</font>
 
 <font color="#FFFFFF">
 
@@ -66,7 +70,7 @@ Designed around **commuting realities, connectivity, and community-generated tra
 <br>
 
 <a href="https://github.com/jjcabalo">
-<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=flat-square&logoColor=000000" />
+<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=for-the-badge&logoColor=000000" />
 </a>
 
 <br>
@@ -74,7 +78,7 @@ Designed around **commuting realities, connectivity, and community-generated tra
 
 </td>
 
-<td align="center" width="50%" bgcolor="#000000">
+<td align="center" width="50%" bgcolor="#111111">
 
 <font color="#FFD21F">
 
@@ -82,9 +86,9 @@ Designed around **commuting realities, connectivity, and community-generated tra
 
 </font>
 
-`PRODUCT` · `MEDIA` · `DISASTER RESPONSE`
+<font color="#FFFFFF">`PRODUCT` · `MEDIA` · `DISASTER RESPONSE`</font>
 
-**Household assessment and needs determination feature.**
+<font color="#FFD21F">**Household assessment and needs determination feature.**</font>
 
 <font color="#FFFFFF">
 
@@ -95,7 +99,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <br>
 
 <a href="https://github.com/jjcabalo">
-<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=flat-square&logoColor=000000" />
+<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=for-the-badge&logoColor=000000" />
 </a>
 
 <br>
@@ -111,27 +115,27 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <div align="center">
 
 <details>
-<summary><b>OTHER BUILDS</b></summary>
+<summary><img src="https://img.shields.io/badge/VIEW%20OTHER%20BUILDS-000000?style=for-the-badge&logoColor=FFD21F&labelColor=FFD21F&color=000000"/></summary>
 
 <br>
 
-<table align="center" width="100%" cellpadding="10">
+<table align="center" width="90%" cellpadding="10">
 
 <tr bgcolor="#000000">
 <td align="center" width="30%">
 <font color="#FFD21F"><b>SERTIFY</b></font>
 </td>
 <td>
-Bulk certificate generation platform.
+<font color="#FFFFFF">Bulk certificate generation platform.</font>
 </td>
 </tr>
 
-<tr bgcolor="#000000">
+<tr bgcolor="#111111">
 <td align="center" width="30%">
 <font color="#FFD21F"><b>IOTRACK</b></font>
 </td>
 <td>
-IoT machine monitoring & learning platform.
+<font color="#FFFFFF">IoT machine monitoring & learning platform.</font>
 </td>
 </tr>
 
@@ -140,7 +144,7 @@ IoT machine monitoring & learning platform.
 <font color="#FFD21F"><b>STUDYBUDDY</b></font>
 </td>
 <td>
-Productivity platform built around focused study sessions.
+<font color="#FFFFFF">Productivity platform built around focused study sessions.</font>
 </td>
 </tr>
 
@@ -150,7 +154,9 @@ Productivity platform built around focused study sessions.
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
@@ -252,13 +258,19 @@ Running Average
 
 </table>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
 # TECH STACK
 
 ### TOOLS I THINK BUILD & CREATE WITH
+
+<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nestjs,cs,tailwind,python,java,figma,unity,idea,androidstudio,vscode&theme=dark" />
+<br><br>
 
 </div>
 
@@ -361,7 +373,9 @@ Running Average
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
@@ -369,13 +383,15 @@ Running Average
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<br>
+<br><br>
 
 <img src="https://ghchart.rshah.org/FFD21F/jjcabalo" width="100%" alt="GitHub contribution calendar"/>
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
@@ -385,7 +401,7 @@ Running Average
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jjcabalo&style=flat-square&color=FFD21F&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jjcabalo&style=for-the-badge&color=FFD21F&label=PROFILE+VIEWS&labelColor=000000"/>
 
 </div>
 
@@ -393,5 +409,5 @@ Running Average
 <br>
 
 <div align="right">
-<sub>Github README.md updated as of August 2026<sub>
+<sub>Github README.md updated as of August 2026</sub>
 </div>
