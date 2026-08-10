@@ -394,7 +394,7 @@ Video Editing · Videography · Media Production · Visual Storytelling
 
 <div align="center">
 
-# 05 — ACTIVITY
+# 05 — ACTIVITY SUMMARY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="90%"/>
 
@@ -408,18 +408,18 @@ Video Editing · Videography · Media Production · Visual Storytelling
 
 <div align="center">
 
-# 06 — LET'S MAKE SOMETHING
-
-### GOOD DESIGN SHOULD FEEL OBVIOUS.
+# CREATE WITH ME
 
 <br>
 
-<a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
-<img src="https://img.shields.io/badge/FIGMA-FFD21F?style=for-the-badge&logo=figma&logoColor=000000"/>
-</a>
-
 <a href="https://www.linkedin.com/in/jjcabalo/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F"/>
+</a>
+
+<a href="https://www.facebook.com/jjrvys"> <img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/>
+</a>
+
+<a href="mailto:johnjervyscabalo08@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/>
 </a>
 
 <a href="https://www.instagram.com/not_jrvys/">
@@ -429,9 +429,5 @@ Video Editing · Videography · Media Production · Visual Storytelling
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=jjcabalo&style=flat-square&color=FFD21F&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<sub>DESIGNED BY JERVYS · BUILT WITH CURIOSITY</sub>
 
 </div>
