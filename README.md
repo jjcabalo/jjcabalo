@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&text=JERVYS&fontColor=FFD21F&fontSize=58&fontAlignY=42&animation=fadeIn&desc=UI%2FUX%20DESIGNER%20%2F%20BUILDER%20%2F%20CREATIVE%20TECHNOLOGIST&descAlignY=65&descColor=FFFFFF&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&text=JERVYS&fontColor=FFD21F&fontSize=58&fontAlignY=42&animation=fadeIn&desc=UI%20%2B%20UX%20%20%20%20BUILD%20%20%20%20AI%20%20%20%20MEDIA&descAlignY=65&descColor=FFFFFF&descSize=14" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;I+design+interfaces+people+want+to+use.;UI%2FUX+%2B+Creative+Technology+%2B+AI." />
-<br>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;I+design+interfaces+people+want+to+use.;UI%2FUX+%2B+Creative+Technology+%2B+AI." />
+
+<br><br>
 
 <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
 <img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" />
@@ -32,13 +32,13 @@
 
 ### JOHN JERVYS CABALO
 
-**UI/UX Designer · Software Engineer · Aspiring AI Engineer & Data Scientist**
+**UI/UX DESIGNER · SOFTWARE ENGINEER · AI EXPLORER · CREATIVE TECHNOLOGIST**
 
 </div>
 
 I design and build digital experiences where **visual thinking meets engineering**.
 
-My work moves between **interface design, product thinking, media production, and software development** — with a growing focus on **AI Engineering and Data Science**.
+My work moves across **interface design, product thinking, media production, and software development** — with a growing focus on **AI Engineering and Data Science**.
 
 <div align="center">
 
@@ -50,21 +50,24 @@ My work moves between **interface design, product thinking, media production, an
 
 <div align="center">
 
-# FEATURED APPS
+# FEATURED WORK
+
+### SELECTED BUILDS · IDEAS · SYSTEMS
 
 </div>
 
 <table align="center" width="90%">
 <tr>
+
 <td align="center" width="50%">
 
-# KomyutPH
+### KOMYUTPH
 
-`UI/UX` · `PRODUCT DESIGN` · `MOBILITY`
+`PRODUCT` · `UI/UX` · `MOBILITY`
 
-**An offline-first navigation experience for Philippine public transportation.**
+**Offline-first navigation for Philippine public transportation.**
 
-Designed around the realities of commuting, connectivity, and community-generated transit data.
+Designed around **commuting realities, connectivity, and community-generated transit data.**
 
 <br>
 
@@ -76,13 +79,13 @@ Designed around the realities of commuting, connectivity, and community-generate
 
 <td align="center" width="50%">
 
-# eHANDA
+### EHANDA
 
-`UI/UX` · `MEDIA DIRECTION` · `DISASTER RESPONSE`
+`PRODUCT` · `MEDIA` · `DISASTER RESPONSE`
 
 **A household assessment and needs determination application for eGovPH.**
 
-Created with Team Cordon Bleu for the **eGovPH Hackathon 2026**. Making it to the Top 10 Finalists.
+Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Finalist.
 
 <br>
 
@@ -91,6 +94,7 @@ Created with Team Cordon Bleu for the **eGovPH Hackathon 2026**. Making it to th
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -99,18 +103,28 @@ Created with Team Cordon Bleu for the **eGovPH Hackathon 2026**. Making it to th
 <div align="center">
 
 <details>
-<summary><b>OTHER BUILDS</b></summary>
+<summary><b>＋ OTHER BUILDS</b></summary>
 
 <br>
 
-**SERTIFY**  
-Bulk certificate generation platform.
+<table align="center" width="85%">
 
-**IOTRACK**  
-IoT machine monitoring and learning website.
+<tr>
+<td align="center"><b>SERTIFY</b></td>
+<td>Bulk certificate generation platform.</td>
+</tr>
 
-**STUDYBUDDY**  
-Website in enhancing student productivity by reducing procrastination and minimizing distractions during study sessions.
+<tr>
+<td align="center"><b>IOTRACK</b></td>
+<td>IoT machine monitoring & learning platform.</td>
+</tr>
+
+<tr>
+<td align="center"><b>STUDYBUDDY</b></td>
+<td>Productivity platform built around focused study sessions.</td>
+</tr>
+
+</table>
 
 </details>
 
@@ -120,61 +134,95 @@ Website in enhancing student productivity by reducing procrastination and minimi
 
 <div align="center">
 
-# HONOR AND RECOGNITION
+# HONOR / RECOGNITION
 
-### AWARDS RECEIVED
+### SELECTED MILESTONES
 
 </div>
 
 <table align="center" width="90%">
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="25%" bgcolor="#000000">
+
+<font color="#FFD21F">
 
 ### 01
 
-**TOP 10 FINALIST**
+**TOP 10**
 
-eGovPH Hackathon 2026
+</font>
+
+<font color="#FFFFFF">
+
+eGovPH Hackathon
+2026
+
+</font>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" bgcolor="#000000">
+
+<font color="#FFD21F">
 
 ### 02
 
 **AWARD**
 
-Most Commercially Viable
+</font>
 
+<font color="#FFFFFF">
+
+Most Commercially Viable
 UMak 7th Hackathon 2025
+
+</font>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" bgcolor="#000000">
+
+<font color="#FFD21F">
 
 ### 03
 
-**PLACE**
+**1ST RUNNER-UP**
 
-1ST RUNNER-UP
+</font>
 
-InfoTechnolympics 2024 C# Category
+<font color="#FFFFFF">
+
+InfoTechnolympics 2024
+C# Category
+
+</font>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" bgcolor="#000000">
+
+<font color="#FFD21F">
 
 ### 04
 
 **DEAN'S LISTER**
 
-Running average **1.243**
+</font>
+
+<font color="#FFFFFF">
+
+Running Average
+**1.243**
+
+</font>
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
@@ -187,112 +235,120 @@ Running average **1.243**
 <table align="center" width="92%">
 
 <tr>
+
 <td align="center" width="34%">
 
-### 53rd Commencement Excercise
+### 53RD COMMENCEMENT
+
 **UNIVERSITY OF MAKATI**
 
-**Slide Deck Committee**  
-**Technical Committee Staff**
-<br>
+`SLIDE DECK` · `TECHNICAL`
+
 </td>
 
 <td width="66%">
 
-Supported live presentation production for major university ceremonies, including the **UMak Hooding Ceremony** and **53rd Commencement Exercises**.
+Live presentation production for major university ceremonies.
 
-Worked on slide preparation, visual assets, presentation control, and technical execution during live events.
+**Highlights:** slide preparation · visual assets · presentation control · live technical execution
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### ESTUDYANEDITS
+
 **SELF-EMPLOYED**
 
-**Founder**  
-`Jul 2023 — Present`
-<br>
+`FOUNDER`
+`JUL 2023 — PRESENT`
+
 </td>
 
 <td>
 
-Founded and managed a creative service practice providing **photo editing, video editing, graphic design, document editing, and web development**.
+Creative service practice covering **photo, video, graphic, document, and web projects**.
 
-Handled client communication, project management, production, and quality assurance from concept to delivery.
+**Highlights:** client management · production · project delivery · QA
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### EROVOUTIKA
+
 **FREELANCE**
 
-**Head of Media**  
-`Dec 2025 — Jan 2026`
-<br>
+`HEAD OF MEDIA`
+`DEC 2025 — JAN 2026`
+
 </td>
 
 <td>
 
-Directed media production for the **4th Robolution** and **Minoan Robotsports Competition — Philippines**, overseeing planning, filming, photography, and post-production across multi-day events.
+Led media production for the **4th Robolution & Minoan Robotsports Competition — Philippines**.
 
-Focused on capturing and presenting the competitions through cohesive visual storytelling.
+**Highlights:** planning · filming · photography · post-production
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
-### DOSTv
+### DOSTV
+
 **DOST CENTRAL OFFICE**
 
-**Student Intern**  
-`Jun 2023 — Jul 2023`
-<br>
+`STUDENT INTERN`
+`JUN 2023 — JUL 2023`
+
 </td>
 
 <td>
 
-Gained hands-on experience in broadcast and field production, including coverage of a **DOST Secretary interview**, host filming, B-roll production for DOSTv News, and on-site equipment preparation.
+Hands-on broadcast and field production for **DOSTv**.
+
+**Highlights:** Secretary interview · host filming · B-roll · equipment preparation
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### MITS
+
 **SRCCMSTHS**
 
-**Video Editing Head**  
-`Jun 2021 — Jul 2023`
-<br>
+`VIDEO EDITING HEAD`
+`JUN 2021 — JUL 2023`
+
 </td>
 
 <td>
 
 Led video production and creative direction for the **Multimedia and Information Technology Society**.
 
-Planned, filmed, and edited digital content for organizational events, campaigns, and online presence.
+**Highlights:** filming · editing · campaigns · event coverage
 
 </td>
+
 </tr>
 
 </table>
-
-<br>
-
-<div align="center">
-
-<br>
-
-</div>
 
 ---
 
@@ -300,83 +356,109 @@ Planned, filmed, and edited digital content for organizational events, campaigns
 
 # TECH STACK
 
-### DESIGN → BUILD → INTELLIGENCE
+### TOOLS I THINK WITH · BUILD WITH · CREATE WITH
 
 </div>
 
 <table align="center" width="90%">
+
 <tr>
-<td bgcolor="#000000">
 
-<h3 align="center">
-<font color="#FFD21F">DESIGN</font>
-</h3>
+<td align="center" bgcolor="#000000">
 
-<p align="center">
-<font color="#FFFFFF">
-Figma · Canva · UI/UX · Prototyping · Visual Design · Motion · Logos
+<font color="#FFD21F">
+
+### `01 / DESIGN`
+
 </font>
-</p>
 
-<br>
+<font color="#FFFFFF">
+
+Figma
+Canva
+UI/UX
+Prototyping
+Visual Design
+Motion
+Branding
+
+</font>
 
 </td>
 
-<td bgcolor="#000000">
+<td align="center" bgcolor="#000000">
 
-<h3 align="center">
-<font color="#FFD21F">ENGINEERING</font>
-</h3>
+<font color="#FFD21F">
 
-<p align="center">
-<font color="#FFFFFF">
-TypeScript · React Native · NestJS · ASP.NET · Jetpack Compose · Tailwind
+### `02 / ENGINEERING`
+
 </font>
-</p>
 
-<br>
+<font color="#FFFFFF">
+
+TypeScript
+React Native
+NestJS
+ASP.NET
+Jetpack Compose
+Tailwind
+
+</font>
 
 </td>
+
 </tr>
 
 <tr>
-<td bgcolor="#000000">
 
-<h3 align="center">
-<font color="#FFD21F">AI & DATA</font>
-</h3>
+<td align="center" bgcolor="#000000">
 
-<p align="center">
-<font color="#FFFFFF">
-Python · scikit-learn · XGBoost · PostGIS · Gemini API
+<font color="#FFD21F">
+
+### `03 / AI + DATA`
+
 </font>
-</p>
 
-<br>
+<font color="#FFFFFF">
+
+Python
+scikit-learn
+XGBoost
+PostGIS
+Gemini API
+
+</font>
 
 </td>
 
-<td bgcolor="#000000">
+<td align="center" bgcolor="#000000">
 
-<h3 align="center">
-<font color="#FFD21F">MULTIMEDIA</font>
-</h3>
+<font color="#FFD21F">
 
-<p align="center">
-<font color="#FFFFFF">
-Video Editing · Videography · Media Production · Visual Storytelling
+### `04 / MEDIA`
+
 </font>
-</p>
 
-<br>
+<font color="#FFFFFF">
+
+Video Editing
+Videography
+Media Production
+Visual Storytelling
+
+</font>
 
 </td>
+
 </tr>
+
 </table>
 
 <br>
 
 <div align="center">
+
+`DESIGN`  →  `ENGINEER`  →  `INTELLIGENCE`  →  `CREATE`
 
 </div>
 
@@ -402,19 +484,7 @@ Video Editing · Videography · Media Production · Visual Storytelling
 
 <br>
 
-<a href="https://www.linkedin.com/in/jjcabalo/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F"/>
-</a>
-
-<a href="https://www.facebook.com/jjrvys"> <img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/>
-</a>
-
-<a href="mailto:johnjervyscabalo08@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/>
-</a>
-
-<a href="https://www.instagram.com/not_jrvys/">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFD21F"/>
-</a>
+<a href="https://www.linkedin.com/in/jjcabalo/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F"/></a> <a href="https://www.facebook.com/jjrvys"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/></a> <a href="mailto:johnjervyscabalo08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/></a> <a href="https://www.instagram.com/not_jrvys/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFD21F"/></a>
 
 <br><br>
 
