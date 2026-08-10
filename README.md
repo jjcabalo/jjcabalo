@@ -8,19 +8,7 @@
 
 <br><br>
 
-<a href="https://jervys.vercel.app"> <img src="https://img.shields.io/badge/PORTFOLIO-FFD21F?style=for-the-badge&logo=vercel&logoColor=000000" /> </a>
-
-<a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
-<img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" />
-</a>
-
-<a href="https://www.linkedin.com/in/jjcabalo/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F" />
-</a>
-
-<a href="https://github.com/jjcabalo">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
+<a href="https://jervys.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FFD21F?style=for-the-badge&logo=vercel&logoColor=000000" /></a> <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo"><img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" /></a> <a href="https://www.linkedin.com/in/jjcabalo/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F" /></a> <a href="https://github.com/jjcabalo"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
 <br>
 
