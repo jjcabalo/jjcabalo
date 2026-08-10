@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&text=JERVYS&fontColor=FFD21F&fontSize=58&fontAlignY=42&animation=fadeIn&desc=UI%2FUX%20DESIGNER%20%2F%20BUILDER%20%2F%20CREATIVE%20TECHNOLOGIST&descAlignY=65&descColor=FFFFFF&descSize=14" width="100%"/>
 
 <br>
-
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;I+design+interfaces+people+want+to+use.;UI%2FUX+%2B+Creative+Technology+%2B+AI." />
 
 <br>
