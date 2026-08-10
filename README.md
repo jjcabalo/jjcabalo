@@ -399,10 +399,10 @@ Running Average
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<br><br>
-
+<br>
+<!--
 <img src="https://ghchart.rshah.org/FFD21F/jjcabalo" width="100%" alt="GitHub contribution calendar"/>
-
+-->
 </div>
 
 <br>
