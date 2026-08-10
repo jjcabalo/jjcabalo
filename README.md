@@ -1,90 +1,66 @@
-<div align="center">
+<!--
+  JERVYS — GitHub Profile README
+  Editorial / UI-UX / AI
+-->
 
 # JERVYS
 
-### UI / UX DESIGNER
+### UI / UX DESIGNER · ASPIRING AI ENGINEER · DATA SCIENTIST
 
-**Designing digital experiences with intention.**
+> **I design interfaces people remember —
+> then build the systems behind them.**
 
-<br>
-
-[WORK](#work)    /    [ABOUT](#about)    /    [CONNECT](#connect)
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2800&pause=1000&color=FFD500&center=true&vCenter=true&width=600&lines=Interface+%2F+Interaction+%2F+Systems;Design+%2B+Code+%2B+Intelligence;Currently+exploring+AI+%2B+Data" />
-
-</div>
+`01` DESIGN    `02` CODE    `03` AI
 
 ---
 
-<a id="about"></a>
+### SELECTED DISCIPLINES
 
-## 01 — ABOUT
-
-**John Jervys Cabalo** — UI/UX Designer exploring the intersection of **design, code, and intelligent systems.**
-
-I care about **typography, interaction, motion, systems, and the little details that make interfaces feel right.**
-
-Currently exploring **AI Engineering + Data Science.**
-
-<br>
-
-`DESIGN → BUILD → EXPLORE`
+**UI / UX** — Interface Design · Interaction · Design Systems
+**BUILD** — React · Next.js · Tailwind · Prototyping
+**EXPLORE** — AI · Data Science · Machine Learning
 
 ---
 
-<a id="work"></a>
+<details>
+<summary><strong>＋ ABOUT</strong></summary>
 
-## 02 — WORK
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **John Jervys Cabalo** — a designer who likes turning ideas into interfaces, and interfaces into experiences.
 
-### 01 / DIGITAL PRODUCTS
+Currently exploring the intersection of **design, code, AI, and data.**
 
-UI · UX · INTERACTION
-Design systems · Prototypes · Motion
+</details>
 
-**[VIEW FIGMA ↗](https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo)**
+<details>
+<summary><strong>＋ DESIGN WORK</strong></summary>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+**FIGMA / SELECTED WORKS**
+→ `Designs by Jervys`
 
-### 02 / EXPERIMENTS
+UI explorations · responsive systems · prototypes · visual direction
 
-Frontend · Creative development
-AI · Data · Machine Learning
+</details>
 
-**[VIEW GITHUB ↗](https://github.com/jjcabalo)**
+<details>
+<summary><strong>＋ CURRENTLY</strong></summary>
 
-</td>
-</tr>
-</table>
+<br>
+
+`DESIGN` → crafting better digital experiences
+`CODE` → turning concepts into products
+`AI` → learning how intelligent systems think
+`DATA` → finding stories inside information
+
+</details>
 
 ---
 
-<div align="center">
+### LET'S MAKE SOMETHING ↓
 
-### DESIGN ISN'T JUST HOW IT LOOKS.
+**[GITHUB] · [FIGMA] · [LINKEDIN] · [INSTAGRAM] · [FACEBOOK]**
 
-### **IT'S HOW IT FEELS TO USE.**
-
-<br>
-
-<a id="connect"></a>
-
-[![FIGMA](https://img.shields.io/badge/FIGMA-111111?style=flat-square\&logo=figma\&logoColor=white)](https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo)
-[![GITHUB](https://img.shields.io/badge/GITHUB-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jjcabalo)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jjcabalo/)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/not_jrvys/)
-
-<br>
-
-**JERVYS / JJ CABALO**
-
-`UI/UX · AI · DATA`
-
-</div>
+<sub>Designed with intention. Built with curiosity.</sub>
