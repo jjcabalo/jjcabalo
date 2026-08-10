@@ -2,29 +2,17 @@
 
 # JERVYS
 
-### UI/UX DESIGNER · CREATIVE DEVELOPER · AI / DATA EXPLORER
+### UI / UX DESIGNER
+
+**Designing digital experiences with intention.**
 
 <br>
 
-<a href="#about">ABOUT</a>
-  •   <a href="#work">WORK</a>
-  •   <a href="#stack">STACK</a>
-  •   <a href="#connect">CONNECT</a>
+[WORK](#work)    /    [ABOUT](#about)    /    [CONNECT](#connect)
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=900&color=FFD500&center=true&vCenter=true&width=700&lines=Designing+interfaces+people+want+to+use.;Turning+ideas+into+digital+experiences.;Exploring+AI%2C+data%2C+and+creative+technology." />
-
-<br><br>
-
-> **I design things to be understood.
-> I build things to be experienced.**
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFD500?style=for-the-badge\&labelColor=111111\&color=FFD500)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jjcabalo/)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/jjrvys)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2800&pause=1000&color=FFD500&center=true&vCenter=true&width=600&lines=Interface+%2F+Interaction+%2F+Systems;Design+%2B+Code+%2B+Intelligence;Currently+exploring+AI+%2B+Data" />
 
 </div>
 
@@ -32,51 +20,45 @@
 
 <a id="about"></a>
 
-## `01 — ABOUT`
+## 01 — ABOUT
 
-I'm **John Jervys Cabalo**, a UI/UX Designer interested in the space where **design, technology, and intelligence** meet.
+**John Jervys Cabalo** — UI/UX Designer exploring the intersection of **design, code, and intelligent systems.**
 
-I obsess over **interfaces, interaction, typography, motion, and systems** — while expanding into **AI Engineering and Data Science**.
+I care about **typography, interaction, motion, systems, and the little details that make interfaces feel right.**
 
-```text
-DESIGN  →  BUILD  →  ANALYZE  →  INTELLIGENCE
-```
+Currently exploring **AI Engineering + Data Science.**
 
-**Currently:** designing interfaces · building products · learning AI · exploring data
+<br>
+
+`DESIGN → BUILD → EXPLORE`
 
 ---
 
 <a id="work"></a>
 
-## `02 — SELECTED WORK`
+## 02 — WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### KOMYUTPH
+### 01 / DIGITAL PRODUCTS
 
-**Offline-first navigation for Philippine paratransit.**
+UI · UX · INTERACTION
+Design systems · Prototypes · Motion
 
-Crowdsourced mobility + machine learning designed around real-world transportation.
-
-`UX` `GeoAI` `XGBoost` `DBSCAN`
-
-**→ Explore repository**
+**[VIEW FIGMA ↗](https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### VETGUARD
+### 02 / EXPERIMENTS
 
-**Digital operations for veterinary management.**
+Frontend · Creative development
+AI · Data · Machine Learning
 
-A centralized system connecting medical records, logistics, inventory, and monitoring.
-
-`UI/UX` `Java` `SQLite` `ARIMA`
-
-**→ Explore repository**
+**[VIEW GITHUB ↗](https://github.com/jjcabalo)**
 
 </td>
 </tr>
@@ -84,117 +66,25 @@ A centralized system connecting medical records, logistics, inventory, and monit
 
 ---
 
-<a id="stack"></a>
-
-## `03 — TOOLKIT`
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,js,ts,python,java,git,github" />
+### DESIGN ISN'T JUST HOW IT LOOKS.
 
-<br><br>
-
-**DESIGN**
-
-`UI/UX` · `Interaction` · `Design Systems` · `Prototyping` · `Motion`
-
-**ENGINEERING**
-
-`React` · `Next.js` · `Tailwind` · `GSAP` · `Frontend`
-
-**AI / DATA**
-
-`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Machine Learning`
-
-</div>
-
----
-
-## `04 — EXPLORE`
-
-<details>
-<summary><b>✦ DESIGN — How I think</b></summary>
+### **IT'S HOW IT FEELS TO USE.**
 
 <br>
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Explore
-   ↓
-Prototype
-   ↓
-Build
-   ↓
-Refine
-```
-
-I care about the details that make an interface feel intentional:
-
-**Hierarchy · Typography · Spacing · Motion · Feedback · Accessibility**
-
-</details>
-
-<details>
-<summary><b>✦ AI — What I'm learning</b></summary>
-
-<br>
-
-I'm exploring how intelligent systems can move beyond models and become **useful products**.
-
-Currently interested in:
-
-`Machine Learning` · `Computer Vision` · `Data Analysis` · `AI Products`
-
-</details>
-
-<details>
-<summary><b>✦ RANDOM — Open this</b></summary>
-
-<br>
-
-```text
-You found the hidden section.
-
-Currently thinking about:
-
-"How can technology feel
-more human without pretending
-to be human?"
-```
-
-</details>
-
----
-
-## `05 — GITHUB`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjcabalo&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFD500&text_color=888888&icon_color=FFD500&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjcabalo&layout=compact&hide_border=true&bg_color=00000000&title_color=FFD500&text_color=888888" width="40%"/>
-
-</div>
-
----
 
 <a id="connect"></a>
 
-<div align="center">
-
-## LET'S MAKE SOMETHING WORTH EXPERIENCING.
-
-**Design. Build. Experiment. Repeat.**
+[![FIGMA](https://img.shields.io/badge/FIGMA-111111?style=flat-square\&logo=figma\&logoColor=white)](https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo)
+[![GITHUB](https://img.shields.io/badge/GITHUB-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jjcabalo)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jjcabalo/)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/not_jrvys/)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-FFD500?style=for-the-badge\&labelColor=111111)](https://www.linkedin.com/in/jjcabalo/)
+**JERVYS / JJ CABALO**
 
-<br><br>
-
-`JERVYS / jjcabalo`
+`UI/UX · AI · DATA`
 
 </div>
