@@ -189,6 +189,8 @@ by DICT & eGovPH
 
 </font>
 
+<br>
+
 </td>
 
 <td align="center" width="25%" bgcolor="#000000">
@@ -209,6 +211,8 @@ Most Commercially Viable
 UMak 7th Hackathon
 
 </font>
+
+<br>
 
 </td>
 
@@ -231,6 +235,8 @@ C# Category
 
 </font>
 
+<br>
+
 </td>
 
 <td align="center" width="25%" bgcolor="#000000">
@@ -251,6 +257,8 @@ Running Average
 **1.243**<br>
 (BSCS - AppDev)
 </font>
+
+<br>
 
 </td>
 
@@ -296,6 +304,8 @@ Running Average
 
 </font>
 
+<br>
+
 </td>
 
 <td align="center" width="50%" bgcolor="#000000">
@@ -315,6 +325,8 @@ Running Average
 `Python` · `Java` · `C#` · `SQL`
 
 </font>
+
+<br>
 
 </td>
 
@@ -340,6 +352,8 @@ Running Average
 
 </font>
 
+<br>
+
 </td>
 
 <td align="center" width="50%" bgcolor="#000000">
@@ -360,6 +374,8 @@ Running Average
 `Filmora` · `Capcut` · `DaVinci Resolve`
 
 </font>
+
+<br>
 
 </td>
 
