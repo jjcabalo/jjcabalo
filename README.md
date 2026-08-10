@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;I+design+interfaces+people+want+to+use.;UI%2FUX+%2B+Creative+Technology+%2B+AI." />
 
-<br><br>
+<br>
 
 <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
 <img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" />
@@ -50,7 +50,7 @@ My work moves between **interface design, product thinking, media production, an
 
 <div align="center">
 
-# 02 — FEATURED WORKS
+# FEATURED APPS
 
 </div>
 
@@ -120,7 +120,7 @@ Website in enhancing student productivity by reducing procrastination and minimi
 
 <div align="center">
 
-# 03 — PROOF OF WORK
+# HONOR AND RECOGNITION
 
 ### AWARDS RECEIVED
 
@@ -178,7 +178,7 @@ Running average **1.243**
 
 <div align="center">
 
-# 03 — EXPERIENCE
+# MEDIA EXPERIENCE
 
 ### DESIGN · MEDIA · TECHNOLOGY
 
@@ -314,7 +314,7 @@ Planned, filmed, and edited digital content for organizational events, campaigns
 
 <p align="center">
 <font color="#FFFFFF">
-Figma · UI/UX · Design Systems · Prototyping · Visual Design · Motion
+Figma · Canva · UI/UX · Prototyping · Visual Design · Motion · Logos
 </font>
 </p>
 
@@ -343,7 +343,7 @@ TypeScript · React Native · NestJS · ASP.NET · Jetpack Compose · Tailwind
 <td bgcolor="#000000">
 
 <h3 align="center">
-<font color="#FFD21F">AI / DATA</font>
+<font color="#FFD21F">AI & DATA</font>
 </h3>
 
 <p align="center">
@@ -359,7 +359,7 @@ Python · scikit-learn · XGBoost · PostGIS · Gemini API
 <td bgcolor="#000000">
 
 <h3 align="center">
-<font color="#FFD21F">MEDIA</font>
+<font color="#FFD21F">MULTIMEDIA</font>
 </h3>
 
 <p align="center">
