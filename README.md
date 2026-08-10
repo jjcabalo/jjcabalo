@@ -137,7 +137,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 ### 01
 
-**TOP 10**
+**TOP 10 FINALISTS**
 
 </font>
 
@@ -339,11 +339,11 @@ Running Average
 
 # ACTIVITY & CONTRIBUTION
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true&custom_title=" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br>
 
-<img src="https://ghchart.rshah.org/FFD21F/jjcabalo" width="90%" alt="GitHub contribution calendar"/>
+<img src="https://ghchart.rshah.org/FFD21F/jjcabalo" width="100%" alt="GitHub contribution calendar"/>
 
 </div>
 
