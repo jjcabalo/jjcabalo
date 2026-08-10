@@ -5,9 +5,9 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;I+design+interfaces+people+want+to+use.;UI%2FUX+%2B+Creative+Technology+%2B+AI." />
+<br>
+<br>
 
-<br>
-<br>
 <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
 <img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" />
 </a>
