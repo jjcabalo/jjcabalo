@@ -191,12 +191,12 @@ Running average **1.243**
 <tr>
 <td align="center" width="34%">
 
-### CIC
+### 53rd Commencement Excercise
 **UNIVERSITY OF MAKATI**
 
 **Slide Deck Committee**  
 **Technical Committee Staff**
-
+<br>
 </td>
 
 <td width="66%">
@@ -216,7 +216,7 @@ Worked on slide preparation, visual assets, presentation control, and technical 
 
 **Founder**  
 `Jul 2023 — Present`
-
+<br>
 </td>
 
 <td>
@@ -236,7 +236,7 @@ Handled client communication, project management, production, and quality assura
 
 **Head of Media**  
 `Dec 2025 — Jan 2026`
-
+<br>
 </td>
 
 <td>
@@ -256,7 +256,7 @@ Focused on capturing and presenting the competitions through cohesive visual sto
 
 **Student Intern**  
 `Jun 2023 — Jul 2023`
-
+<br>
 </td>
 
 <td>
@@ -274,7 +274,7 @@ Gained hands-on experience in broadcast and field production, including coverage
 
 **Video Editing Head**  
 `Jun 2021 — Jul 2023`
-
+<br>
 </td>
 
 <td>
@@ -292,13 +292,7 @@ Planned, filmed, and edited digital content for organizational events, campaigns
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### EXPERIENCE THROUGH THREE LENSES
-
-`DESIGN` &nbsp;&nbsp; `MEDIA` &nbsp;&nbsp; `TECHNOLOGY`
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
 
 </div>
 
@@ -306,7 +300,7 @@ Planned, filmed, and edited digital content for organizational events, campaigns
 
 <div align="center">
 
-# 04 — THE TOOLKIT
+# TECH STACK
 
 ### DESIGN → BUILD → INTELLIGENCE
 
@@ -326,6 +320,8 @@ Figma · UI/UX · Design Systems · Prototyping · Visual Design · Motion
 </font>
 </p>
 
+<br>
+
 </td>
 
 <td bgcolor="#000000">
@@ -339,6 +335,8 @@ Figma · UI/UX · Design Systems · Prototyping · Visual Design · Motion
 TypeScript · React Native · NestJS · ASP.NET · Jetpack Compose · Tailwind
 </font>
 </p>
+
+<br>
 
 </td>
 </tr>
@@ -356,6 +354,8 @@ Python · scikit-learn · XGBoost · PostGIS · Gemini API
 </font>
 </p>
 
+<br>
+
 </td>
 
 <td bgcolor="#000000">
@@ -370,6 +370,8 @@ Video Editing · Videography · Media Production · Visual Storytelling
 </font>
 </p>
 
+<br>
+
 </td>
 </tr>
 </table>
@@ -378,23 +380,13 @@ Video Editing · Videography · Media Production · Visual Storytelling
 
 <div align="center">
 
-<sub>BLACK / WHITE / YELLOW</sub>
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
-
-**LESS NOISE. MORE INTENT.**
-
 </div>
 
 ---
 
 <div align="center">
 
-# 05 — ACTIVITY SUMMARY
+# ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="90%"/>
 
