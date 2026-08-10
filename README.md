@@ -37,7 +37,7 @@ Interface explorations · responsive systems · prototypes · visual direction
 <br>
 
 <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo">
-<img src="https://cdn.simpleicons.org/figma/000000" width="28" alt="Figma"/>
+<img src="https://cdn.simpleicons.org/figma" width="28" alt="Figma"/>
 </a>
 
 </details>
@@ -60,23 +60,23 @@ Interface explorations · responsive systems · prototypes · visual direction
 
 <p>
   <a href="https://github.com/jjcabalo">
-    <img src="https://cdn.simpleicons.org/github/000000" width="28" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github" width="28" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo">
-    <img src="https://cdn.simpleicons.org/figma/000000" width="28" alt="Figma"/>
+    <img src="https://cdn.simpleicons.org/figma" width="28" alt="Figma"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jjcabalo/">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" width="28" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin" width="28" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/not_jrvys/">
-    <img src="https://cdn.simpleicons.org/instagram/000000" width="28" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram" width="28" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/jjrvys">
-    <img src="https://cdn.simpleicons.org/facebook/000000" width="28" alt="Facebook"/>
+    <img src="https://cdn.simpleicons.org/facebook" width="28" alt="Facebook"/>
   </a>
 </p>
 
