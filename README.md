@@ -26,9 +26,9 @@
 
 </div>
 
-I design and build digital experiences where **visual thinking meets engineering**. My work moves across **`interface design`, `product thinking`, `media production`, and `software development`** — with a growing focus on **`AI Engineering` and `Data Science`**.
+<div align="justify">
 
-<div align="center">
+I design and build digital experiences where **visual thinking meets engineering**. My work moves across **`interface design`**, **`product thinking`**, **`media production`**, and **`software development`** — with a growing focus on **`AI Engineering`** and **`Data Science`**.
 
 </div>
 
@@ -279,7 +279,7 @@ Running Average
 <font color="#FFFFFF">
 
 `Figma` · `Canva` · `UI/UX`
-`Prototyping` · `Visual Design`
+`Prototyping` · `Visual Design` ·
 `Motion` · `Branding`
 
 </font>
