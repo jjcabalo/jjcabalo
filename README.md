@@ -26,9 +26,7 @@
 
 </div>
 
-I design and build digital experiences where **visual thinking meets engineering**.
-
-My work moves across **`interface design`, `product thinking`, `media production`, and `software development`** — with a growing focus on **`AI Engineering` and `Data Science`**.
+I design and build digital experiences where **visual thinking meets engineering**. My work moves across **`interface design`, `product thinking`, `media production`, and `software development`** — with a growing focus on **`AI Engineering` and `Data Science`**.
 
 <div align="center">
 
@@ -47,15 +45,23 @@ My work moves across **`interface design`, `product thinking`, `media production
 <table align="center" width="90%">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" bgcolor="#000000">
 
-### KomyutPH
+<font color="#FFD21F">
+
+### KOMYUTPH
+
+</font>
 
 `PRODUCT` · `UI/UX` · `MOBILITY`
 
 **Offline-first navigation for Philippine public transportation.**
 
+<font color="#FFFFFF">
+
 Designed around **commuting realities, connectivity, and community-generated transit data.**
+
+</font>
 
 <br>
 
@@ -63,23 +69,39 @@ Designed around **commuting realities, connectivity, and community-generated tra
 <img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=flat-square&logoColor=000000" />
 </a>
 
+<br>
+<br>
+
 </td>
 
-<td align="center" width="50%">
+<td width="4%"></td>
+
+<td align="center" width="50%" bgcolor="#000000">
+
+<font color="#FFD21F">
 
 ### eHANDA
+
+</font>
 
 `PRODUCT` · `MEDIA` · `DISASTER RESPONSE`
 
 **Household assessment and needs determination feature.**
 
+<font color="#FFFFFF">
+
 Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Finalist.
+
+</font>
 
 <br>
 
 <a href="https://github.com/jjcabalo">
 <img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=flat-square&logoColor=000000" />
 </a>
+
+<br>
+<br>
 
 </td>
 
@@ -95,21 +117,47 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <br>
 
-<table align="center" width="85%">
+<table align="center" width="85%" cellpadding="10">
 
-<tr>
-<td align="center"><b>SERTIFY</b></td>
-<td>Bulk certificate generation platform.</td>
+<tr bgcolor="#000000">
+<td align="center" width="30%">
+<font color="#FFD21F"><b>SERTIFY</b></font>
+</td>
+<td>
+Bulk certificate generation platform.
+</td>
 </tr>
 
 <tr>
-<td align="center"><b>IOTRACK</b></td>
-<td>IoT machine monitoring & learning platform.</td>
+<td align="center" width="30%">
+<font color="#000000"><b>01</b></font>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#000000">
+<td align="center" width="30%">
+<font color="#FFD21F"><b>IOTRACK</b></font>
+</td>
+<td>
+IoT machine monitoring & learning platform.
+</td>
 </tr>
 
 <tr>
-<td align="center"><b>STUDYBUDDY</b></td>
-<td>Productivity platform built around focused study sessions.</td>
+<td align="center" width="30%">
+<font color="#000000"><b>02</b></font>
+</td>
+<td></td>
+</tr>
+
+<tr bgcolor="#000000">
+<td align="center" width="30%">
+<font color="#FFD21F"><b>STUDYBUDDY</b></font>
+</td>
+<td>
+Productivity platform built around focused study sessions.
+</td>
 </tr>
 
 </table>
@@ -128,7 +176,8 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 </div>
 
-<table align="center" width="90%">
+<table align="center" width="90%" cellpadding="14">
+
 <tr>
 
 <td align="center" width="25%" bgcolor="#000000">
@@ -141,10 +190,12 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
-eGovPH Hackathon
-2026
+eGovPH Hackathon 2026
+by DICT & eGovPH
 
 </font>
 
@@ -160,12 +211,13 @@ eGovPH Hackathon
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
 Most Commercially Viable
-UMak 7th Hackathon 2025
-<br>
-<br>
+UMak 7th Hackathon
+
 </font>
 
 </td>
@@ -180,9 +232,11 @@ UMak 7th Hackathon 2025
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
-InfoTechnolympics 2024
+InfoTechnolympics 2024<br>
 C# Category
 
 </font>
@@ -199,16 +253,19 @@ C# Category
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
 Running Average
-**1.243**
-
+**1.243**<br>
+(BSCS - AppDev)
 </font>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -221,11 +278,11 @@ Running Average
 
 </div>
 
-<table align="center" width="90%">
+<table align="center" width="90%" cellpadding="14">
 
 <tr>
 
-<td align="center" bgcolor="#000000">
+<td align="center" width="50%" bgcolor="#000000">
 
 <font color="#FFD21F">
 
@@ -233,23 +290,19 @@ Running Average
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
-`Figma`
-`Canva`
-`UI/UX`
-`Prototyping`
-`Visual Design`
-`Motion`
-`Branding`
-<br>
-<br>
+`Figma` · `Canva` · `UI/UX`
+`Prototyping` · `Visual Design`
+`Motion` · `Branding`
 
 </font>
 
 </td>
 
-<td align="center" bgcolor="#000000">
+<td align="center" width="50%" bgcolor="#000000">
 
 <font color="#FFD21F">
 
@@ -257,18 +310,13 @@ Running Average
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
-`TypeScript`
-`React Native`
-`NestJS`
-`ASP.NET`
-`Jetpack Compose`
-`Tailwind`
-`Python`
-`Java`
-`C#`
-`SQL`
+`TypeScript` · `React Native` · `NestJS`
+`ASP.NET` · `Jetpack Compose` · `Tailwind`
+`Python` · `Java` · `C#` · `SQL`
 
 </font>
 
@@ -278,7 +326,7 @@ Running Average
 
 <tr>
 
-<td align="center" bgcolor="#000000">
+<td align="center" width="50%" bgcolor="#000000">
 
 <font color="#FFD21F">
 
@@ -286,20 +334,19 @@ Running Average
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
-`OpenCode`
-`Antigravity`
-`Visual Studio Code`
-`Unity`
-`IntelliJ IDEA`
-`Android Studio`
+`OpenCode` · `Antigravity`
+`Visual Studio Code` · `Unity`
+`IntelliJ IDEA` · `Android Studio`
 
 </font>
 
 </td>
 
-<td align="center" bgcolor="#000000">
+<td align="center" width="50%" bgcolor="#000000">
 
 <font color="#FFD21F">
 
@@ -307,18 +354,15 @@ Running Average
 
 </font>
 
+<hr>
+
 <font color="#FFFFFF">
 
-`Video Editing`
-`Videography`
+`Video Editing` · `Videography`
 `Media Direction & Production`
 `Visual Storytelling`
-`Filmora`
-`Capcut`
-`DaVinci Resolve`
+`Filmora` · `Capcut` · `DaVinci Resolve`
 
-<br>
-<br>
 </font>
 
 </td>
@@ -360,7 +404,10 @@ Running Average
 <img src="https://komarev.com/ghpvc/?username=jjcabalo&style=flat-square&color=FFD21F&label=PROFILE+VIEWS"/>
 
 </div>
+
 <br>
 <br>
+
 <div align="right">
 <sub>Github README.md updated as of August 2026<sub>
+</div>
