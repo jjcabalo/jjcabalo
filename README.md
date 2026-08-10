@@ -49,7 +49,7 @@ I design and build digital experiences where **visual thinking meets engineering
 
 <font color="#FFD21F">
 
-### KOMYUTPH
+### KomyutPH
 
 </font>
 
