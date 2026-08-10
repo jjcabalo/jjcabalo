@@ -22,8 +22,6 @@
 
 <br>
 
-<sub>SCROLL ↓</sub>
-
 </div>
 
 ---
