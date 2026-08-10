@@ -22,7 +22,7 @@
 
 ### JOHN JERVYS CABALO
 
-**UI/UX Designer · Software and AI Engineer · Data Scientist**
+**Software Engineer | UI/UX Designer | Media Producer**
 
 </div>
 
