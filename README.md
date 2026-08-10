@@ -8,6 +8,8 @@
 
 <br><br>
 
+<a href="https://jervys.vercel.app"> <img src="https://img.shields.io/badge/PORTFOLIO-FFD21F?style=for-the-badge&logo=vercel&logoColor=000000" /> </a>
+
 <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
 <img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" />
 </a>
