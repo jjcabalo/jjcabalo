@@ -1,114 +1,72 @@
-# JERVYS
+<div align="center">
 
-### UI / UX DESIGNER · ASPIRING AI ENGINEER · DATA SCIENTIST
+# jervys
 
-> **I design interfaces people remember —
-> then build the systems behind them.**
+**UI/UX Designer · Creative Technologist · Aspiring AI Engineer**
 
-`01` DESIGN    `02` BUILD    `03` EXPLORE
-
----
-
-### SELECTED DISCIPLINES
-
-**UI / UX** — Interface · Interaction · Design Systems
-**BUILD** — React · Next.js · Tailwind · Prototyping
-**EXPLORE** — AI · Data · Machine Learning
-
----
-
-<details>
-<summary><strong>＋ ABOUT</strong></summary>
+*I design interfaces, build digital experiences, and explore the space where*
+*design, code, and intelligent systems meet.*
 
 <br>
 
-I'm **John Jervys Cabalo** — a designer exploring the space where **design, code, AI, and data** meet.
+[ **design** ](https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalolo) · [ **github** ](https://github.com/jjcabalo) · [ **linkedin** ](https://www.linkedin.com/in/jjcabalo/) · [ **instagram** ](https://www.instagram.com/not_jrvys/)
+
+</div>
+
+---
+
+### / what i do
+
+**01 — DESIGN**
+UI · UX · Interaction · Design Systems
+
+**02 — BUILD**
+Web Experiences · Frontend · Creative Development
+
+**03 — EXPLORE**
+AI · Data · Intelligent Interfaces
+
+<details>
+<summary><b>↳ a little more about me</b></summary>
+
+I'm **John Jervys Cabalo**, a Computer Science student who enjoys working between the visual and technical sides of technology.
+
+I care about how things **look, feel, and work** — from the first wireframe to the final interaction.
 
 </details>
 
-<details>
-<summary><strong>＋ DESIGN WORK</strong></summary>
+---
 
-<br>
+### / currently
 
-**DESIGNS BY JERVYS**
-Interface explorations · responsive systems · prototypes · visual direction
+```text
+designing     interfaces that feel intentional
+building      interactive web experiences
+learning      AI & data science
+exploring     the intersection of design × technology
+```
 
-<br>
+---
 
-<a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo">
-<img src="https://cdn.simpleicons.org/figma" width="28" alt="Figma"/>
+### / selected
+
+<a href="https://github.com/jjcabalo">
+<img src="https://github-readme-stats.vercel.app/api?username=jjcabalo&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" height="160">
+</a>
+<a href="https://github.com/jjcabalo">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjcabalo&layout=compact&hide_border=true&hide_title=true&theme=transparent" height="160">
 </a>
 
-</details>
+---
 
-<details>
-<summary><strong>＋ CURRENTLY</strong></summary>
+<div align="center">
+
+### let's make something worth experiencing.
+
+[ **linkedin ↗** ](https://www.linkedin.com/in/jjcabalo/) · [ **figma ↗** ](https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalolo) · [ **instagram ↗** ](https://www.instagram.com/not_jrvys/) · [ **facebook ↗** ](https://www.facebook.com/jjrvys)
 
 <br>
 
-`DESIGN` → crafting better digital experiences
-`CODE` → turning concepts into products
-`AI` → learning intelligent systems
-`DATA` → finding stories inside information
+<sub>designed with intent · built with curiosity</sub>
 
-</details>
-
----
-
-### CONNECT
-
-<p>
-  <a href="https://github.com/jjcabalo">
-    <img
-      src="https://cdn.simpleicons.org/github"
-      width="44"
-      height="44"
-      alt="GitHub"
-      style="background:#f2f2f2;border-radius:12px;padding:9px;"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo">
-    <img
-      src="https://cdn.simpleicons.org/figma"
-      width="44"
-      height="44"
-      alt="Figma"
-      style="background:#f2f2f2;border-radius:12px;padding:9px;"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jjcabalo/">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
-      width="44"
-      height="44"
-      alt="LinkedIn"
-      style="background:#f2f2f2;border-radius:12px;padding:9px;"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/not_jrvys/">
-    <img
-      src="https://cdn.simpleicons.org/instagram"
-      width="44"
-      height="44"
-      alt="Instagram"
-      style="background:#f2f2f2;border-radius:12px;padding:9px;"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/jjrvys">
-    <img
-      src="https://cdn.simpleicons.org/facebook"
-      width="44"
-      height="44"
-      alt="Facebook"
-      style="background:#f2f2f2;border-radius:12px;padding:9px;"
-    />
-  </a>
-</p>
-
-<sub>Designed with intention. Built with curiosity.</sub>
-
+</div>
