@@ -128,13 +128,6 @@ Bulk certificate generation platform.
 </td>
 </tr>
 
-<tr>
-<td align="center" width="30%">
-<font color="#000000"><b>01</b></font>
-</td>
-<td></td>
-</tr>
-
 <tr bgcolor="#000000">
 <td align="center" width="30%">
 <font color="#FFD21F"><b>IOTRACK</b></font>
@@ -142,13 +135,6 @@ Bulk certificate generation platform.
 <td>
 IoT machine monitoring & learning platform.
 </td>
-</tr>
-
-<tr>
-<td align="center" width="30%">
-<font color="#000000"><b>02</b></font>
-</td>
-<td></td>
 </tr>
 
 <tr bgcolor="#000000">
