@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&text=JERVYS&fontColor=FFD21F&fontSize=58&fontAlignY=42&animation=fadeIn&desc=UI%20%2B%20UX%20%20%20%20BUILD%20%20%20%20AI%20%20%20%20MEDIA&descAlignY=65&descColor=FFFFFF&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFD500&text=JERVYS&textBg=false&fontColor=000000&animation=fadeIn&desc=Building%20ideas%20worth%20seeing.&descAlign=50&descAlignY=63&fontAlign=50&fontSize=150&fontAlignY=41&descSize=25" width="100%"/>
 
 <br>
 
@@ -32,17 +32,15 @@
 
 ### JOHN JERVYS CABALO
 
-**UI/UX DESIGNER · SOFTWARE ENGINEER · AI EXPLORER · CREATIVE TECHNOLOGIST**
+**UI/UX Designer · Software and AI Engineer · Data Scientist
 
 </div>
 
 I design and build digital experiences where **visual thinking meets engineering**.
 
-My work moves across **interface design, product thinking, media production, and software development** — with a growing focus on **AI Engineering and Data Science**.
+My work moves across **`interface design`, `product thinking`, `media production`, and `software development`** — with a growing focus on **`AI Engineering` and `Data Science`**.
 
 <div align="center">
-
-`DESIGN`  ━━━  `BUILD`  ━━━  `ITERATE`
 
 </div>
 
@@ -50,9 +48,9 @@ My work moves across **interface design, product thinking, media production, and
 
 <div align="center">
 
-# FEATURED WORK
+# APPLICATIONS
 
-### SELECTED BUILDS · IDEAS · SYSTEMS
+### FEATURED BUILDS
 
 </div>
 
@@ -61,7 +59,7 @@ My work moves across **interface design, product thinking, media production, and
 
 <td align="center" width="50%">
 
-### KOMYUTPH
+### KomyutPH
 
 `PRODUCT` · `UI/UX` · `MOBILITY`
 
@@ -79,7 +77,7 @@ Designed around **commuting realities, connectivity, and community-generated tra
 
 <td align="center" width="50%">
 
-### EHANDA
+### eHANDA
 
 `PRODUCT` · `MEDIA` · `DISASTER RESPONSE`
 
@@ -103,7 +101,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <div align="center">
 
 <details>
-<summary><b>＋ OTHER BUILDS</b></summary>
+<summary><b>OTHER BUILDS</b></summary>
 
 <br>
 
@@ -134,7 +132,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <div align="center">
 
-# HONOR / RECOGNITION
+# HONORS & RECOGNITIONS
 
 ### SELECTED MILESTONES
 
@@ -176,7 +174,7 @@ eGovPH Hackathon
 
 Most Commercially Viable
 UMak 7th Hackathon 2025
-
+<br>
 </font>
 
 </td>
@@ -228,7 +226,7 @@ Running Average
 
 # MEDIA EXPERIENCE
 
-### DESIGN · MEDIA · TECHNOLOGY
+### WORK HISTORY
 
 </div>
 
@@ -243,14 +241,12 @@ Running Average
 **UNIVERSITY OF MAKATI**
 
 `SLIDE DECK` · `TECHNICAL`
-
+<br>
 </td>
 
 <td width="66%">
 
-Live presentation production for major university ceremonies.
-
-**Highlights:** slide preparation · visual assets · presentation control · live technical execution
+Live broadcast for the UMak Hooding Ceremony and Pagtatapos 2026 of University of Makati.
 
 </td>
 
@@ -266,14 +262,12 @@ Live presentation production for major university ceremonies.
 
 `FOUNDER`
 `JUL 2023 — PRESENT`
-
+<br>
 </td>
 
 <td>
 
-Creative service practice covering **photo, video, graphic, document, and web projects**.
-
-**Highlights:** client management · production · project delivery · QA
+Creative service practice covering **photo, video, graphic, document, and application development projects**.
 
 </td>
 
@@ -289,14 +283,12 @@ Creative service practice covering **photo, video, graphic, document, and web pr
 
 `HEAD OF MEDIA`
 `DEC 2025 — JAN 2026`
-
+<br>
 </td>
 
 <td>
 
 Led media production for the **4th Robolution & Minoan Robotsports Competition — Philippines**.
-
-**Highlights:** planning · filming · photography · post-production
 
 </td>
 
@@ -312,14 +304,12 @@ Led media production for the **4th Robolution & Minoan Robotsports Competition �
 
 `STUDENT INTERN`
 `JUN 2023 — JUL 2023`
-
+<br>
 </td>
 
 <td>
 
 Hands-on broadcast and field production for **DOSTv**.
-
-**Highlights:** Secretary interview · host filming · B-roll · equipment preparation
 
 </td>
 
@@ -335,14 +325,12 @@ Hands-on broadcast and field production for **DOSTv**.
 
 `VIDEO EDITING HEAD`
 `JUN 2021 — JUL 2023`
-
+<br>
 </td>
 
 <td>
 
 Led video production and creative direction for the **Multimedia and Information Technology Society**.
-
-**Highlights:** filming · editing · campaigns · event coverage
 
 </td>
 
@@ -368,19 +356,19 @@ Led video production and creative direction for the **Multimedia and Information
 
 <font color="#FFD21F">
 
-### `01 / DESIGN`
+### DESIGN AND LAYOUT
 
 </font>
 
 <font color="#FFFFFF">
 
-Figma
-Canva
-UI/UX
-Prototyping
-Visual Design
-Motion
-Branding
+`Figma`
+`Canva`
+`UI/UX`
+`Prototyping`
+`Visual Design`
+`Motion`
+`Branding`
 
 </font>
 
@@ -390,18 +378,18 @@ Branding
 
 <font color="#FFD21F">
 
-### `02 / ENGINEERING`
+### ENGINEERING
 
 </font>
 
 <font color="#FFFFFF">
 
-TypeScript
-React Native
-NestJS
-ASP.NET
-Jetpack Compose
-Tailwind
+`TypeScript`
+`React Native`
+`NestJS`
+`ASP.NET`
+`Jetpack Compose`
+`Tailwind`
 
 </font>
 
@@ -415,17 +403,15 @@ Tailwind
 
 <font color="#FFD21F">
 
-### `03 / AI + DATA`
+### AI INTEGRATION
 
 </font>
 
 <font color="#FFFFFF">
 
-Python
-scikit-learn
-XGBoost
-PostGIS
-Gemini API
+`Python`
+`scikit-learn`
+`Gemini API`
 
 </font>
 
@@ -435,16 +421,16 @@ Gemini API
 
 <font color="#FFD21F">
 
-### `04 / MEDIA`
+### MEDIA PRODUCTION
 
 </font>
 
 <font color="#FFFFFF">
 
-Video Editing
-Videography
-Media Production
-Visual Storytelling
+`Video Editing`
+`Videography`
+`Media Production`
+`Visual Storytelling`
 
 </font>
 
@@ -458,15 +444,13 @@ Visual Storytelling
 
 <div align="center">
 
-`DESIGN`  →  `ENGINEER`  →  `INTELLIGENCE`  →  `CREATE`
-
 </div>
 
 ---
 
 <div align="center">
 
-# ACTIVITY
+# ACTIVITY & CONTRIBUTION
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="90%"/>
 
@@ -479,8 +463,6 @@ Visual Storytelling
 ---
 
 <div align="center">
-
-# CREATE WITH ME
 
 <br>
 
