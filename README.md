@@ -60,24 +60,55 @@ Interface explorations · responsive systems · prototypes · visual direction
 
 <p>
   <a href="https://github.com/jjcabalo">
-    <img src="https://cdn.simpleicons.org/github" width="28" alt="GitHub"/>
+    <img
+      src="https://cdn.simpleicons.org/github"
+      width="44"
+      height="44"
+      alt="GitHub"
+      style="background:#f2f2f2;border-radius:12px;padding:9px;"
+    />
   </a>
   &nbsp;
   <a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalo">
-    <img src="https://cdn.simpleicons.org/figma" width="28" alt="Figma"/>
+    <img
+      src="https://cdn.simpleicons.org/figma"
+      width="44"
+      height="44"
+      alt="Figma"
+      style="background:#f2f2f2;border-radius:12px;padding:9px;"
+    />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jjcabalo/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" alt="LinkedIn"/>
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+      width="44"
+      height="44"
+      alt="LinkedIn"
+      style="background:#f2f2f2;border-radius:12px;padding:9px;"
+    />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/not_jrvys/">
-    <img src="https://cdn.simpleicons.org/instagram" width="28" alt="Instagram"/>
+    <img
+      src="https://cdn.simpleicons.org/instagram"
+      width="44"
+      height="44"
+      alt="Instagram"
+      style="background:#f2f2f2;border-radius:12px;padding:9px;"
+    />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/jjrvys">
-    <img src="https://cdn.simpleicons.org/facebook" width="28" alt="Facebook"/>
+    <img
+      src="https://cdn.simpleicons.org/facebook"
+      width="44"
+      height="44"
+      alt="Facebook"
+      style="background:#f2f2f2;border-radius:12px;padding:9px;"
+    />
   </a>
 </p>
 
 <sub>Designed with intention. Built with curiosity.</sub>
+
