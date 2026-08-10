@@ -339,7 +339,7 @@ Running Average
 
 # ACTIVITY & CONTRIBUTION
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjcabalo&bg_color=000000&color=FFFFFF&line=FFD21F&point=FFFFFF&area=true&hide_border=true&custom_title=" width="90%"/>
 
 <br>
 
