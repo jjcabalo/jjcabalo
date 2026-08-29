@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;I+design+interfaces+people+want+to+use.;UI%2FUX+%2B+Creative+Technology+%2B+AI." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=I+care+about+the+little+things+people+notice.;I+design%2C+build%2C+and+learn+along+the+way.;From+rough+ideas+to+something+you+can+use.;Design+meets+code%2C+with+curiosity+in+between." />
 
 <br><br>
 
