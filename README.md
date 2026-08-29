@@ -289,7 +289,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <br>
 
-<a href="https://www.linkedin.com/in/jjcabalo/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F"/></a> <a href="https://www.facebook.com/jjrvys"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/></a> <a href="mailto:johnjervyscabalo08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/></a> <a href="https://www.instagram.com/not_jrvys/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFD21F"/></a>
+<a href="https://www.facebook.com/jjrvys"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/></a> <a href="mailto:johnjervyscabalo08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/></a> <a href="https://www.instagram.com/not_jrvys/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFD21F"/></a>
 
 <br><br>
 
