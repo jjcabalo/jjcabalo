@@ -4,15 +4,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;What+I+make+today+is+always+a+little+better+than+yesterday.;I+care+about+the+little+things+people+notice." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1300&color=FFD21F&center=true&vCenter=true&width=720&lines=Design+is+how+it+works.+Not+just+how+it+looks.;What+I+make+today+is+always+a+little+better+than+yesterday.;I+care+about+the+little+things+people+notice" />
 
 <br><br>
 
-<a href="https://john.vercel.app"><img src="https://img.shields.io/badge/JOHN-FFD21F?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
-<a href="https://jervys.vercel.app"><img src="https://img.shields.io/badge/JERVYS-FFD21F?style=for-the-badge&logoColor=000000" /></a>
-<a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo"><img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" /></a>
-<a href="https://www.linkedin.com/in/jjcabalo/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F" /></a>
-<a href="https://github.com/jjcabalo"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://john.vercel.app">
+<img src="https://img.shields.io/badge/JOHN-FFD21F?style=for-the-badge&logo=vercel&logoColor=000000" />
+</a>
+<a href="https://jervys.vercel.app">
+<img src="https://img.shields.io/badge/JERVYS-FFD21F?style=for-the-badge&logoColor=000000" />
+</a>
+<a href="https://www.figma.com/design/o72FIFhP9JvfqAFDOtAAh0/Designs-by-JJ-Cabalololo">
+<img src="https://img.shields.io/badge/VIEW%20MY%20DESIGNS-FFD21F?style=for-the-badge&logo=figma&logoColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/jjcabalo/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD21F" />
+</a>
+<a href="https://github.com/jjcabalo">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
 <br>
 
@@ -31,11 +41,17 @@
 </div>
 
 <table align="center" width="100%" bgcolor="#000000" cellpadding="20">
-<tr><td align="center">
+<tr>
+<td align="center">
+
 <font color="#FFFFFF" size="3">
+
 I design and build digital experiences where <font color="#FFD21F"><b>visual thinking meets engineering</b></font>. My work moves across <b><code>interface design</code></b>, <b><code>product thinking</code></b>, <b><code>media production</code></b>, and <b><code>software development</code></b> — with a growing focus on <font color="#FFD21F"><b><code>AI Engineering</code></b></font> and <font color="#FFD21F"><b><code>Data Science</code></b></font>.
+
 </font>
-</td></tr>
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -74,11 +90,10 @@ Designed around **commuting realities, connectivity, and community-generated tra
 <br>
 
 <a href="https://github.com/jjcabalo">
-<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
 
-<br>
-<br>
+<br><br>
 
 </td>
 
@@ -103,11 +118,10 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <br>
 
 <a href="https://github.com/jjcabalo">
-<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/EXPLORE-FFD21F?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
 
-<br>
-<br>
+<br><br>
 
 </td>
 
@@ -127,28 +141,57 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <tr bgcolor="#000000">
 <td align="center" width="30%">
+<font color="#FFD21F"><b>MAPUONE</b></font>
+</td>
+<td>
+<font color="#FFFFFF">Centralized campus complaint management platform.</font>
+</td>
+<td align="center">
+<a href="https://github.com/jjcabalo/MapuOne">
+<img src="https://img.shields.io/badge/VIEW-FFD21F?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+</td>
+</tr>
+
+<tr bgcolor="#111111">
+<td align="center" width="30%">
 <font color="#FFD21F"><b>SERTIFY</b></font>
 </td>
 <td>
 <font color="#FFFFFF">Bulk certificate generation platform.</font>
 </td>
+<td align="center">
+<a href="https://github.com/jjcabalo/Sertify">
+<img src="https://img.shields.io/badge/VIEW-FFD21F?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+</td>
 </tr>
 
-<tr bgcolor="#111111">
+<tr bgcolor="#000000">
 <td align="center" width="30%">
 <font color="#FFD21F"><b>IOTRACK</b></font>
 </td>
 <td>
 <font color="#FFFFFF">IoT machine monitoring & learning platform.</font>
 </td>
+<td align="center">
+<a href="https://github.com/jjcabalo/IoTrack-Website">
+<img src="https://img.shields.io/badge/VIEW-FFD21F?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+</td>
 </tr>
 
-<tr bgcolor="#000000">
+<tr bgcolor="#111111">
 <td align="center" width="30%">
 <font color="#FFD21F"><b>STUDYBUDDY</b></font>
 </td>
 <td>
 <font color="#FFFFFF">Productivity platform built around focused study sessions.</font>
+</td>
+<td align="center">
+<a href="https://github.com/jjcabalo/StudyBuddy">
+<img src="https://img.shields.io/badge/VIEW-FFD21F?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
 </td>
 </tr>
 
@@ -164,14 +207,14 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <div align="center">
 
-<div align="center">
-
 # TECH STACK
 
-### TOOLS I THINK BUILD & CREATE WITH
+### TOOLS I THINK, BUILD & CREATE WITH
 
 <br>
+
 <img src="https://skillicons.dev/icons?i=ts,react,nestjs,cs,tailwind,python,java,figma,unity,idea,androidstudio,vscode&theme=dark" />
+
 <br><br>
 
 </div>
@@ -193,8 +236,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <font color="#FFFFFF">
 
 `Figma` · `Canva` · `UI/UX`
-`Prototyping` · `Visual Design` ·
-`Motion` · `Branding`
+`Prototyping` · `Visual Design` · `Motion` · `Branding`
 
 </font>
 
@@ -232,7 +274,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <font color="#FFD21F">
 
-### AI TOOLS & IDES
+### AI TOOLS & IDEs
 
 </font>
 
@@ -265,7 +307,7 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 `Video Editing` · `Videography`
 `Media Direction & Production`
 `Visual Storytelling`
-`Filmora` · `Capcut` · `DaVinci Resolve`
+`Filmora` · `CapCut` · `DaVinci Resolve`
 
 </font>
 
@@ -279,17 +321,23 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 
 <br>
 
-<div align="center">
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD21F&height=4" width="100%"/>
 
 <div align="center">
 
 <br>
 
-<a href="https://www.facebook.com/jjrvys"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/></a> <a href="mailto:johnjervyscabalo08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/></a> <a href="https://www.instagram.com/not_jrvys/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFD21F"/></a>
+<a href="https://www.facebook.com/jjrvys">
+<img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=FFD21F"/>
+</a>
+
+<a href="mailto:johnjervyscabalo08@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD21F"/>
+</a>
+
+<a href="https://www.instagram.com/not_jrvys/">
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFD21F"/>
+</a>
 
 <br><br>
 
@@ -301,5 +349,5 @@ Built with **Team Cordon Bleu** for the **eGovPH Hackathon 2026** — Top 10 Fin
 <br>
 
 <div align="right">
-<sub>Github README.md updated as of August 2026</sub>
+<sub>GitHub README.md updated as of September 2026</sub>
 </div>
