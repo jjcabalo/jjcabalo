@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://john.vercel.app">
+<a href="https://johnofalltrades.vercel.app">
 <img src="https://img.shields.io/badge/JOHN-FFD21F?style=for-the-badge&logo=vercel&logoColor=000000" />
 </a>
 <a href="https://jervys.vercel.app">
